@@ -160,3 +160,6 @@ The Flask api provided has the following routes
     - {att}: {description}
     - {att}: {description}
 
+
+---
+Template: [Flask Readme](https://github.com/pithlyx/readme) by [Cody 'Pithlyx' Roberts](https://github.com/pithlyx)
