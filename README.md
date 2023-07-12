@@ -50,7 +50,7 @@ npm start --prefix client
 ```
 ***
 ## Models
-![Database Diagram](README/db_example.png)
+![Database Diagram](src/db_example.png)
 
 The file `server/models.py` defines the model classes.
 
