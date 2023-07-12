@@ -50,7 +50,7 @@ npm start --prefix client
 ```
 ***
 ## Models
-![Database Diagram](src/db_example.png)
+![Database Diagram](./src/db_example.png)
 
 The file `server/models.py` defines the model classes.
 
@@ -80,7 +80,7 @@ python server/seed.py
 The Flask api provided has the following routes
 
 ### /Route1
-
+{description}
 #### METHOD1
   - Description: {description}
   - Requires:
