@@ -1,8 +1,10 @@
-# {Project Name}
+# Project Name
+Author: [Your Name](your_github_profile)  
+More Info: [Github](your_project_repo)
 <img src="./src/icon.png" align="right"
      alt="{alt_text}" width="45" height="45">
 ## Table of Contents
-- [{Project Name}](#project-name)
+- [Project Name](#project-name)
   - [Table of Contents](#table-of-contents)
   - [Intro](#intro)
   - [Setup](#setup)
@@ -18,6 +20,7 @@
       - [METHOD1](#method1-1)
       - [METHOD2](#method2-1)
       - [METHOD3](#method3-1)
+  - [Credits](#credits)
 ## Intro
 {intro}
 In this repo:
@@ -160,6 +163,9 @@ The Flask api provided has the following routes
     - {att}: {description}
     - {att}: {description}
 
-
 ---
-Template: [Flask Readme](https://github.com/pithlyx/readme) by [Cody 'Pithlyx' Roberts](https://github.com/pithlyx)
+## Credits
+- [Readme Template](https://github.com/pithlyx/readme) : [Cody 'Pithlyx' Roberts](https://github.com/pithlyx)
+- [Asset](link_to_asset): [Author](link_to_author)
+- [Asset](link_to_asset): [Author](link_to_author)
+- [Asset](link_to_asset): [Author](link_to_author)
